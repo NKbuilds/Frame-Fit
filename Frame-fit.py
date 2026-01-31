@@ -1,8 +1,8 @@
-#hey so this program is a simple one. so ig u guys must have faced problems with your image getting in cropped while uploading a linkedin banner and whatsapp profile pic etc
+#hey so this program is a simple one. so ig you guys may have faced problems with your image getting cropped while uploading a linkedin banner or a whatsapp profile pic etc
 #this program just solves the problem by centering the image and adding padding.
-#u guys can checkout my github:github.com/NKbuilds
+#you guys can checkout my github:github.com/NKbuilds
 
-#Here the libraries we used are the pillow library and the tkinter for GUI.
+#Here the libraries we have used are the pillow library and the tkinter for GUI.
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
@@ -152,3 +152,4 @@ if __name__=="__main__":
     root=tk.Tk()
     app=ImgResizerApp(root)
     root.mainloop()
+
