@@ -1,0 +1,9 @@
+## How to Run the App
+This is a simple Python GUI app, so running it is pretty straightforward.
+
+### Requirement
+You’ll need:
+- Python (any recent version should work)
+- Pillow 
+- Tkinter 
+
