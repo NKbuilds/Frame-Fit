@@ -1,4 +1,5 @@
 # Frame Fit
+<img width="691" height="723" alt="frame fit ui" src="https://github.com/user-attachments/assets/6ca88376-2f1e-482f-a3db-6924d7532dc6" />
 
 ## Why did I make this app?
 
